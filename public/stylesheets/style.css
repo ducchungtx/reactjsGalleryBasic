@@ -1,0 +1,20 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.div-album {
+  width: 200px;
+  background-color: yellow;
+  padding: 5px;
+  margin: 5px;
+  border: solid 1px green;
+}
+
+hr {
+  visibility: hidden;
+}
